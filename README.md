@@ -1,1 +1,2 @@
 # Marvel-movies-analysis
+A data analysis mini project for Marvel movies released from 1998. The project divides the movies into the various marvel projects(MCU or Sony). It describes the amount of revenue generated, frequency of release days etc. 
